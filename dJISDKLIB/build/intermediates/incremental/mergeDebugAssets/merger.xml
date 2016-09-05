@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android\application\GSDemo\dJISDKLIB\src\main\assets"/><source path="D:\Android\application\GSDemo\dJISDKLIB\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Android\application\GSDemo\dJISDKLIB\src\debug\assets"/></dataSet></merger>
